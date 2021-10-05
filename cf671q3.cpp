@@ -32,7 +32,8 @@ double power(float x, int y)
             return x * temp * temp;  
         else
             return (temp * temp) / x;  
-    }  
+    }
+    cout<<"power"<<endl;
 }  
 bool isPrime(int n) 
 { 
