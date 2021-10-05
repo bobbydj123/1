@@ -2,7 +2,7 @@
 #define rep(i,a,b)       for(long long int i=a;i<b;i++)
 #define input(a,n)       for(long long int i=0;i<n;i++)cin>>a[i];
 #define set(a,n, x)      for(long long int i=0;i<n;i++)a[i]=x;
-#define dikhao(a,n)      for(long long int i=0;i<n;i++)cout<<a[i]<<" ";cout<<endl;
+#define dikhao(a,n)      for(long lonaag int i=0;i<n;i++)cout<<a[i]<<" ";cout<<endl;
 #define fi              first
 #define se              second
 #define pii             pair<int,int>
@@ -63,7 +63,7 @@ void solve(){
     if(s - n*k == 0 || c>0){
         cout<<1<<endl;
         return;
-    }
+    }ASDASDAS
     cout<<2<<endl;
 
 }
