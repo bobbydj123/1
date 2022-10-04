@@ -1,4 +1,5 @@
 #include<bits/stdc++.h>
+haha
 #define rep(i,a,b)       for(long long int i=a;i<b;i++)
 #define input(a,n)       for(long long int i=0;i<n;i++)cin>>a[i];
 #define set(a,n, x)      for(long long int i=0;i<n;i++)a[i]=x;
