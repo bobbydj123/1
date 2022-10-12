@@ -71,6 +71,10 @@ ll findLen(ll x){
     return len;
 }
 
+int print(int x){
+	return x;
+}
+
 int main(){
     ios::sync_with_stdio(0);
     cin.tie(0);
@@ -90,7 +94,7 @@ int main(){
     for(auto &i: nums){
     	insert(root, i, len);
     }
-    
+    printi(x):
     cin>>q;
     while(q--){
     	cin>>x>>k;
